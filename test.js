@@ -5,7 +5,7 @@ const test = props => {
   return (
     <div>
       aaa
-      asdadw
+      asd
     </div>
   );
 };
